@@ -1,0 +1,19 @@
+{
+    "name": "happy_new_year"
+  , "version": "2012.0.0"
+  , "description": "Happy new year Node.js people!"
+  , "keywords": ["happy new year", "2012"]
+  , "author": "Veselin Todorov <hi@vesln.com>"
+  , "dependencies": {
+  }
+  , "repository" : {
+      "type" : "git",
+      "url" : "http://github.com/vesln/happy_new_year.git"
+  }
+  , "homepage": "http://github.com/vesln/happy_new_year"
+  , "scripts": {
+      "test": "make test"
+  }
+  , "main": "index"
+  , "engines": { "node": ">= 0.6.0 < 0.7.0" }
+}
